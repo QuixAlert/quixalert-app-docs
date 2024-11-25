@@ -1,4 +1,4 @@
-# Quixalert App Docs~
+# Quixalert App Docs
 
 ## Architecture Diagram
 Using MVVM (Model - View - ViewModel) with Service and Repository
